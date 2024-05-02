@@ -1,0 +1,13 @@
+.section {
+display: flex;
+flex-direction: column;
+justify-content: center;
+text-align: center;
+
+}
+
+.title {
+    text-transform: uppercase;
+    font-size: xx-large;
+
+}
